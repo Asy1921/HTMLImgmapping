@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<title>Web Page Design</title>
+<head>
+
+</head>
+<body>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsNCR3o5CuQtE9UXgJXU7RT_H2N558qfWeVg&usqp=CAU" alt="alphabets" usemap="#alphamap">
+
+<map name="alphamap">
+  
+
+<area shape="circle" coords="18,20,20" alt="A" href="https://en.wikipedia.org/wiki/Apple_Inc.">
+<area shape="circle" coords="54,20,20" alt="B" href="https://en.wikipedia.org/wiki/Boy">
+<area shape="circle" coords="98,20,20" alt="C" href="https://en.wikipedia.org/wiki/Cat">
+<area shape="circle" coords="137,23,20" alt="D" href="https://en.wikipedia.org/wiki/Dog">
+<area shape="circle" coords="178,23,20" alt="E" href="https://en.wikipedia.org/wiki/Elephant.">
+<area shape="circle" coords="220,23,20" alt="F" href="https://en.wikipedia.org/wiki/Fly">
+<area shape="circle" coords="260,23,20" alt="G" href="https://en.wikipedia.org/wiki/Goal">
+<area shape="circle" coords="14,60,20" alt="H" href="https://en.wikipedia.org/wiki/Hotel">
+<area shape="circle" coords="14,60,20" alt="I" href="https://en.wikipedia.org/wiki/India">
+<area shape="circle" coords="98,60,20" alt="J" href="https://en.wikipedia.org/wiki/Janitor">
+<area shape="circle" coords="137,63,20" alt="K" href="https://en.wikipedia.org/wiki/Kite">
+<area shape="circle" coords="178,63,20" alt="L" href="https://en.wikipedia.org/wiki/Loop">
+<area shape="circle" coords="220,63,20" alt="M" href="https://en.wikipedia.org/wiki/Money">
+<area shape="circle" coords="260,63,20" alt="N" href="https://en.wikipedia.org/wiki/Night">
+
+<area shape="circle" coords="18,117,20" alt="O" href="https://en.wikipedia.org/wiki/Octopus">
+<area shape="circle" coords="54,117,20" alt="P" href="https://en.wikipedia.org/wiki/Pants">
+<area shape="circle" coords="98,117,20" alt="Q" href="https://en.wikipedia.org/wiki/Query">
+<area shape="circle" coords="137,117,20" alt="R" href="https://en.wikipedia.org/wiki/Rat">
+<area shape="circle" coords="178,117,20" alt="S" href="https://en.wikipedia.org/wiki/Shape">
+<area shape="circle" coords="220,117,20" alt="T" href="https://en.wikipedia.org/wiki/Tall">
+<area shape="circle" coords="260,117,20" alt="U" href="https://en.wikipedia.org/wiki/Uber">
+<area shape="circle" coords="54,160,20" alt="V" href="https://en.wikipedia.org/wiki/Vertical">
+<area shape="circle" coords="98,160,20" alt="W" href="https://en.wikipedia.org/wiki/Whale">
+<area shape="circle" coords="137,160,20" alt="X" href="https://en.wikipedia.org/wiki/Xerox">
+<area shape="circle" coords="178,160,20" alt="Y" href="https://en.wikipedia.org/wiki/Yell">
+<area shape="circle" coords="220,160,20" alt="Z" href="https://en.wikipedia.org/wiki/Zap">
+</map> 
+</body>
+</html>
